@@ -1,0 +1,6 @@
+streamlit
+langchain
+trulens-eval
+openai
+trulens-apps-langchain>=1.0.0
+-e .
