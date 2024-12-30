@@ -4,4 +4,5 @@ trulens-eval
 openai
 langchain_community
 trulens-apps-langchain>=1.0.0
+trulens-providers-huggingface>=1.0.0
 -e .
